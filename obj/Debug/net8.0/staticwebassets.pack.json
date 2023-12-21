@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tinti\\helloevr\\wwwroot\\app.min.js",
+      "PackagePath": "staticwebassets\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tinti\\helloevr\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tinti\\helloevr\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tinti\\helloevr\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tinti\\helloevr\\wwwroot\\js\\bootstrap.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tinti\\helloevr\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tinti\\helloevr\\wwwroot\\js\\jquery.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tinti\\helloevr\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.helloevr.props",
+      "PackagePath": "build\\helloevr.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.helloevr.props",
+      "PackagePath": "buildMultiTargeting\\helloevr.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.helloevr.props",
+      "PackagePath": "buildTransitive\\helloevr.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.helloevr.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
